@@ -2,7 +2,7 @@
 
 <h2>Glad to see you here!</h2>
 
-- 💻 I’m currently learning about **Python Automation**
+- 💻 I’m currently learning **React Js**
 
 - 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects**
 
